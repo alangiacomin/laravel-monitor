@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "alangiacomin/laravel-monitor",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Laravel monitor",
+    "keywords": ["laravel", "monitor"],
     "license": "MIT",
     "require": {
         "php": "^8.1",
